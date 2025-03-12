@@ -1,10 +1,9 @@
-# 🎮 Welcome to My Dev Hub!  
+# 🎮 Welcome to My Game Dev Hub!  
 > "Game development is my quest, and coding is my weapon!"  
 
 🧙‍♂️ **Class:** Indie Game Developer  
-🎯 **Specialization:** Unity C# | Pixel Art | Game Mechanics  
-📍 **Current Quest:** Building the ultimate roguelike shooter  
-
+🎯 **Specialization:** Unity C# | Web Game Dev | Game Mechanics  
+🏛️ **Academy:** 42 Bangkok Student   And  Thai-Nichi Institute of Technology
 ---
 
 ## 🏆 **Stats & Abilities**
@@ -19,17 +18,14 @@
 ---
 
 ## 🔥 **My Loadout (Tech Stack)**  
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![Construct 2](https://img.shields.io/badge/Construct2-002147?style=flat&logo=construct-2&logoColor=white)  
+![42 Bangkok](https://img.shields.io/badge/42_Bangkok-000000?style=flat&logo=42&logoColor=white)  
 
-
----
-
-## 📊 **Player Stats (GitHub)**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
 
 ---
 
