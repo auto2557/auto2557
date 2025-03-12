@@ -10,10 +10,12 @@
 | 🛠️ Skill        | 🎯 Level |
 |----------------|---------|
 | Unity (C#)     | ⭐⭐⭐⭐✰ |
-| Pixel Art 🎨   | ⭐⭐✰✰✰ |
-| AI Behavior 🤖  | ⭐⭐⭐✰✰ |
-| Game UI/UX 🎮  | ⭐⭐⭐✰✰ |
-| Multiplayer 🔗 | ⭐✰✰✰✰ |
+| C Programming  | ⭐⭐⭐✰✰ |
+| Java ☕        | ⭐⭐⭐✰✰ |
+| HTML & CSS 🌐  | ⭐⭐⭐✰✰ |
+| JavaScript ⚡  | ⭐⭐✰✰✰  |
+| Construct 2 🎮 | ⭐⭐⭐✰✰ |
+| Game UI/UX 🎨  | ⭐⭐⭐✰✰ |
 
 ---
 
@@ -25,6 +27,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
 ![Construct 2](https://img.shields.io/badge/Construct2-002147?style=flat&logo=construct-2&logoColor=white)  
 ![42 Bangkok](https://img.shields.io/badge/42_Bangkok-000000?style=flat&logo=42&logoColor=white)  
+![TNI](https://img.shields.io/badge/Thai--Nichi%20Institute%20of%20Technology-0056A3?style=flat&logo=graduation-cap&logoColor=white)  
 
 
 ---
