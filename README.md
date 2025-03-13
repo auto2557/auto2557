@@ -33,7 +33,7 @@
 ---
 
 ## 🎮 **Contact & Socials**
-👾 **Itch.io:** [YOUR_ITCH]([https://itch.io](https://tammastudio.itch.io/))  
+👾 **Itch.io:** [https://tammastudio.itch.io/](https://tammastudio.itch.io/)
 📧 **Email:** auto16348@gmail.com  
 
 > "Press Start to Continue!" 🚀  
