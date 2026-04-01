@@ -3,7 +3,7 @@
 
 🧙‍♂️ **Class:** Indie Game Developer  
 🎯 **Specialization:** Unity C# | Web Game Dev | Game Mechanics  
-🏛️ **Academy:** 42 Bangkok Student   And  Thai-Nichi Institute of Technology
+🏛️ Thai-Nichi Institute of Technology
 ---
 
 ## 🏆 **Stats & Abilities**
